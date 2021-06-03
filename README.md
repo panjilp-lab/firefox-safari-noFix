@@ -94,3 +94,4 @@ Mozilla and Firefox are trademarks of the Mozilla Foundation in the U.S. and oth
 Safari and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.
 
 
+# firefox-safari-noFix
